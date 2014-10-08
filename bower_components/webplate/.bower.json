@@ -1,0 +1,47 @@
+{
+  "name": "Webplate",
+  "version": "2.5.4",
+  "homepage": "https://getwebplate.com",
+  "authors": [
+    "Chris Humboldt <chrismodem@gmail.com>"
+  ],
+  "description": "An awesome front-end framework that lets you stay focused on building your site or app all the while remaining really easy to use.",
+  "main": "stack.js",
+  "keywords": [
+    "Webplate",
+    "UI",
+    "Framework",
+    "Responsive",
+    "jQuery",
+    "SASS",
+    "Blueplate",
+    "Modernizr",
+    "Hammer.js",
+    "Velocity.js",
+    "Buttonplate",
+    "Modalplate",
+    "Formplate",
+    "Flickerplate"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "core/grunt/node_modules",
+    "bower.json",
+    "index.html"
+  ],
+  "_release": "2.5.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.5.4",
+    "commit": "ba8c41aec871a53a9be80b8045116c1afa7103bf"
+  },
+  "_source": "git://github.com/chrishumboldt/Webplate.git",
+  "_target": "~2.5.4",
+  "_originalSource": "webplate",
+  "_direct": true
+}

@@ -1,0 +1,24 @@
+/**
+ * SASS File: 		_shape.scss
+ * Type: 			partial
+ * Author:        	Chris Humboldt
+ * Last Edited:   	23 April 2014
+ */
+
+
+// Table of contents
+// ---------------------------------------------------------------------------------------
+// Button shape
+
+
+// Button shape
+// ---------------------------------------------------------------------------------------
+@mixin button-shape-rounded() {
+	@include border-radius();
+}
+@mixin button-shape-pill() {
+	@include border-radius(100px);
+}
+@mixin button-shape-square() {
+	@include border-radius(0px);
+}
