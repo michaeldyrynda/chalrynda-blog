@@ -1,25 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-10-08 13:20:08
-categories: jekyll update
+title:  "We're going on an adventure!"
+date:   2014-10-11 22:50:00
+categories: travel pre-departure
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+We're not quite off on our trip just yet, but it was suggested by Rhi that I hurry up and get this travel blog up and running.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Our aim is to blog every day, but we're not sure how frequently we'll get access to the internet in order to actually post.
 
-Jekyll also offers powerful support for code snippets:
+Naturally we'll tell you all about our travels when we get home, but we thought it best to use a blog to keep as many people up-to-date with our travels as possible (and let you know we're still alive and well!)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+We jet off on Monday morning at 11am flying via Singapore (with a 6-ish hour stopover), then Zurich for an hour, before arriving in London early on Tuesday morning local time. Once there, the plan is to grab a bit to eat and set off on a two-hour express coach ride to Bristol, where we'll be staying with a friend while we're in the UK.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+By next weekend, we'll board a train to Paris where we'll spend a few days taking in the sites both on a tour and on our own.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+From there, it's a full-day train trip across the European countryside to Rome, where we'll base our eight day stay in Italy. We have a few tours lined up here, too. We purchased ourselves a four day RailPass and have plans to visit Florence and Naples, and using the other two days for wild card journeys.
+
+Ater Italy, we fly back to Zurich as party of our round-the-world fare to indulge in some fine cheese and chocolate and to relax from the busy schedule we've set ourselves in Italy.
+
+Lastly, we fly to Los Angeles for seven days of adventures across Southern California; we'll visit Universal Studios, Disneyland, Disney's California Adventure, Santa Monica, squeeze in some outlet shopping and catch the Lakers play at STAPLES Centre.
+
+It doesn't seem like a lot in a few sentences, but we're both really excited about the trip of a lifetime (even if we do have to face 20 hours on three planes before it begins!)
+
+Check back again soon, we'll get photos and details up as often as we can!
+
+Michael and RHi
