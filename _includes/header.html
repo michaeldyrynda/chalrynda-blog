@@ -2,11 +2,7 @@
   <div class="title-bar-clear">
 
     <ul class="right-links navigation">
-      {% for page in site.pages %}
-        {% if page.title %}
-          <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+      <li><a href="/" class="btn-primary" title="Go home">Go home</a></li>
     </ul>
 
     <a href="#" class="navigation-trigger icon-only icon-menu"></a>
