@@ -24,4 +24,4 @@ It doesn't seem like a lot in a few sentences, but we're both really excited abo
 
 Check back again soon, we'll get photos and details up as often as we can!
 
-Michael and RHi
+Michael and Rhi
