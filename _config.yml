@@ -10,6 +10,7 @@ timezone: Australia/Adelaide
 markdown: kramdown
 
 # OpenGraph settings
+og_image: assets/img/og_img.jpg
 og_image_type: image/jpg
 og_image_width: 300
 og_image_height: 300
