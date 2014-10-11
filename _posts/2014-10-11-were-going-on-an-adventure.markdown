@@ -3,6 +3,7 @@ layout: post
 title:  "We're going on an adventure!"
 date:   2014-10-11 22:50:00
 categories: travel pre-departure
+author: Michael
 ---
 We're not off on our trip just yet, but it was suggested by Rhi that I hurry up and get this travel blog up and running.
 
