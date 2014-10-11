@@ -11,7 +11,7 @@ Our aim is to blog every day, but we're not sure how frequently we'll get access
 
 Naturally we'll tell you all about our travels when we get home, but we thought it best to use a blog to keep as many people up-to-date with our travels as possible (and let you know we're still alive and well!)
 
-We jet off on Monday morning at 11am flying via Singapore (with a 6-ish hour stopover), then Zurich for an hour, before arriving in London early on Tuesday morning local time. Once there, the plan is to grab a bit to eat and set off on a two-hour express coach ride to Bristol, where we'll be staying with a friend while we're in the UK.
+We jet off on Monday morning at 11am flying via Singapore (with a 6-ish hour stopover), then Zurich for an hour, before arriving in London early on Tuesday morning local time. Once there, the plan is to grab a bite to eat and set off on a two-hour express coach ride to Bristol, where we'll be staying with a friend while we're in the UK.
 
 By next weekend, we'll board a train to Paris where we'll spend a few days taking in the sites both on a tour and on our own.
 
