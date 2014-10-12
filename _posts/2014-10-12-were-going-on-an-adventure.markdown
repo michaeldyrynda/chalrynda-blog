@@ -19,7 +19,7 @@ Next weekend, we'll board a train to Paris where we'll spend a few days taking i
 
 From there, it's a full-day train trip across the European countryside to Rome, where we'll base our eight day stay in Italy. We have a few tours lined up here, too. We purchased ourselves a four day RailPass and have plans to visit Florence and Naples, and using the other two days for wild card journeys.
 
-Ater Italy, we fly back to Zurich as party of our round-the-world fare to indulge in some fine cheese and chocolate and to relax from the busy schedule we've set ourselves in Italy.
+Ater Italy, we fly back to Zurich as part of our round-the-world fare to indulge in some fine cheese and chocolate and to relax from the busy schedule we've set ourselves in Italy.
 
 Lastly, we fly to Los Angeles for seven days of adventures across Southern California; we'll visit Universal Studios, Disneyland, Disney's California Adventure, Santa Monica, squeeze in some outlet shopping and I'll catch the Lakers play at STAPLES Centre.
 
