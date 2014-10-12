@@ -10,6 +10,10 @@ layout: default
 
         <a href="/" class="btn-basic">Back home</a>
 
+        {% if page.comments %}
+        {% include disqus.html %}
+        {% endif %}
+
         <div class="line-icon">
             <div class="line">
                 <i class="icon-head"></i>

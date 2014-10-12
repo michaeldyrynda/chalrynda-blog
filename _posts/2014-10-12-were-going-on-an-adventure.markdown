@@ -5,6 +5,7 @@ date:   2014-10-12 10:53:00
 categories: travel pre-departure
 author: Michael
 description: We're not off on our trip just yet, but it was suggested by Rhi that I hurry up and get this travel blog up and running.
+comments: true
 ---
 We're not off on our trip just yet, but it was suggested by Rhi that I hurry up and get this travel blog up and running.
 
