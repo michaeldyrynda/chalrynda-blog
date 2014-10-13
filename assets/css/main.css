@@ -2,7 +2,7 @@
 ---
 
 header .bg-image {
-    background-image: url('../assets/img/bg-blog.jpg') !important;
+    background-image: url('../img/bg-blog.jpg') !important;
 }
 
 header .inner h2 {
