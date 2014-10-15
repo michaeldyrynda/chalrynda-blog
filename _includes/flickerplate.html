@@ -1,9 +1,10 @@
 <div class="flickerplate">
     <ul>
-{% for image in page.images}
+{% for image in page.images %}
         <li data-background="{{ image.link }}">
-            <div class="flick-title">{{ image.title }}</div>
+            {% if image.title %}<div class="flick-title">{{ image.title }}</div>{% endif %}
         </li>
 {% endfor %}
     </ul>
 </div>
+<br />
