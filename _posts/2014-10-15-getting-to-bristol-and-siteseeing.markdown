@@ -4,7 +4,7 @@ title: "Adelaide to Bristol and Siteseeing"
 date: 2014-10-15 17:30:00
 categories: travel uk heathrow london bristol
 author: Rhiannon
-description: Travel from Adelaide to Bristol and our first day of siteseeing around Bristol
+description: Travel from Adelaide to Bristol and our first day of siteseeing around Bristol.
 comments: true
 og_image: assets/img/blog/london_heathrow_airport.jpg
 ---
