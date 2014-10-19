@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who knew Bristol was so big?"
-date: 2014-10-16 08:11:00
+date: 2014-10-16
 categories: travel uk bristol
 author: Michael
 description: With a good tour guide, there's no shortage of things to see and do in Bristol.
