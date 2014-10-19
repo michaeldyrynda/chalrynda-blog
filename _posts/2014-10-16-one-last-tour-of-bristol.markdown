@@ -20,6 +20,8 @@ images:
 - link: /assets/img/flickerplate/one-last-tour-of-bristol/matthew_ship.jpg
 - link: /assets/img/flickerplate/one-last-tour-of-bristol/kaskelot_ship.jpg
 ---
+Thursday 16th October
+
 A lack of planning on my part has meant that we had to make a choice; either see Harry Potter Studio Tour, or miss out on seeing London. I didn't realise quite how far out of London it actually was, which meant it would basically be a seven hour day *just* to see it, and at this point that would mean missing out on seeing London. That said, we decided to give it a miss, instead having another day in Bristol and actually getting to have a pub lunch.
 
 We started the morning late, with a delicious sample-size English breakfast. For a sample size, it was still a *lot* more than we normally would have eaten for breakfast but it was amazing. I had my first taste of black pudding (Rhi wouldn't have a bar of it, though she ate the mushrooms I skipped). Whilst it didn't taste particularly terrible, it's certainly not something I'd be going out of my way to find once we get back home. More bacon is my preference ;)

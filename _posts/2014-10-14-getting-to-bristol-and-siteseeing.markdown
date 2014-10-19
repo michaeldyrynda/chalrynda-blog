@@ -8,6 +8,8 @@ description: Travel from Adelaide to Bristol and our first day of siteseeing aro
 comments: true
 og_image: assets/img/blog/london_heathrow_airport.jpg
 ---
+Monday 13th October - Tuesday 14th October
+
 So Monday started out at about 6:45am for us (or 7:07am for me because Michael "helpfully" let me sleep in) as we needed to be out of the door by 7:30am and at the airport by 8am. Whoever made up this be at the airport 3 hours before the flight thing is a jerk. Abby woke up to see us off, I put on my fake rings, and Sheldon got his final pettins for the month.
 
 <div style="margin-bottom: 10px; text-align: center;">
