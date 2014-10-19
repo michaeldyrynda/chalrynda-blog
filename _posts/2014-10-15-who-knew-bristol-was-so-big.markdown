@@ -8,8 +8,6 @@ description: With a good tour guide, there's no shortage of things to see and do
 comments: true
 og_image: assets/img/og/graffiti_kobe_karaoke.jpg
 ---
-Wednesday 15th October
-
 I'd just like to say how much Rhi and I have both been blown away by not only the size of Bristol, but by the sheer amount of things there are to see and do in this place. There's so much rich history, buildings older than colonised Australia and, with a great tour guide (thanks Pete!), there's a *lot* to learn about this place!
 
 We started the day with a much needed sleep-in, the near on 36 hours of travel from home had hit us hard so the extra rest for a day of siteseeing was needed. After a delicious breakfast of Lincolnshire sausage, smoked bacon, duck eggs, and toast (everybody is shocked I didn't take a photo of this, right?) we set out towards the nearest bus stop to catch a bus which was running late. It's nice to know some things are the same on the other side of the world.
