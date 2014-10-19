@@ -6,7 +6,7 @@ categories: travel uk bristol
 author: Michael
 description: With a good tour guide, there's no shortage of things to see and do in Bristol.
 comments: true
-og_image: assets/img/blog/graffiti_kobe_karaoke.jpg
+og_image: assets/img/og/graffiti_kobe_karaoke.jpg
 ---
 Wednesday 15th October
 
