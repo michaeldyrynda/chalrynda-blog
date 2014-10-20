@@ -22,3 +22,12 @@ article li {
     line-height: 32px;
     word-wrap: break-word;
 }
+
+
+@media screen and (max-width: 568px) {
+    article img {
+        display: block;
+        height: auto;
+        width: 100%;
+    }
+}
