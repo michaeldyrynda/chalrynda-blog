@@ -9,7 +9,7 @@ comments: true
 og_image: /assets/img/og/trains-from-paris-to-rome.jpg
 ---
 
-Wednesday 22nd October
+Tuesday 21st October
 
 This one will be a short post, as we spent all day on the trains!
 
