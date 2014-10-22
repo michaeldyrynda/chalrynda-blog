@@ -37,7 +37,7 @@ Our train arrived in Torino at about 12:25pm, then we waited in the train statio
 
 We then arrived in Rome at about 5:30pm. We caught a taxi (a legitimate one this time - they have signs saying not to catch illegal ones in Rome) and after a short trip with amazing sights from the windows, we arrived at our apartment for the next 8 days. Its tiny, but all we need, and its right in the heart of things, about 5 minutes walk from the Pantheon, and about 20 minutes from the Colosseum and Roman Forum.
 
-Our first impression of Rome from just that short ride was awed. The history is so impressive, you just about can't look in ay direction without seeing some statue, castle wall, ancient church or beautiful fountain from 850, 1000, 1800 years ago. No offense Paris, but you just can't compare!
+Our first impression of Rome from just that short ride was awed. The history is so impressive, you just about can't look in any direction without seeing some statue, castle wall, ancient church or beautiful fountain from 850, 1000, 1800 years ago. No offense Paris, but you just can't compare!
 
 We arrived, dumped our stuff, then went looking for food as we hadn't eaten all day. The weather was beautiful and balmy, and we soon found a restaurant a few minutes walk away for our first taste of authentic bruschetta and pizza. We took it to go, and spent the rest of the evening watching NCIS: Los Angeles (the only thing we could find in English) before hitting the hay early. Despite having sat down basically all day, travel sure takes it out of you. I'm pretty sure we went back a couple of hours at some stage which didn't help.
 
