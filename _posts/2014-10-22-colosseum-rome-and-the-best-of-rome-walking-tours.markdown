@@ -84,6 +84,11 @@ By this time it was about 2:30pm, and we only had to wait another 45 minutes unt
 
 Our Best of Rome Walking Tour kicked off at 3:15pm, and we were with a bunch of Americans (they're everywhere over here), a couple of which we made nice with. We had a quick look at the Steps, then headed towards the Fontana de Trevi, or Trevi Fountain. We went past many sculptures, including the Colonna dell'Immacolata or Column of the Immaculate Conception, which celebrates the reasonably recent dogma of the immaculate conception of the Blessed Virgin Mary in her mother's womb being free from original sin.
 
+<div style="margin-bottom: 10px; text-align: center;">
+    <img src="/assets/img/blog/colonna_dell_immacolata_1.jpg" alt="Colonna dell'Immacolata" />
+    <p>Colonna dell'Immacolata</p>
+</div>
+
 The Trevi Fountain itself is acutally under restoration until sometime in 2015 (or so they say, I'd give it longer) so we couldn't see it in its full glory, but thats okay. We saw enough glory to not be greedy when it came to this.
 
 <div class="flickerplate">
