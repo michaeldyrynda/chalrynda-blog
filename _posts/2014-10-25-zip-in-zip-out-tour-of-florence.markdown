@@ -4,7 +4,7 @@ title: Zip in, zip out tour of Florence
 date: 2014-10-25
 categories: travel italy florence
 author: Rhiannon
-description:
+description: After being spoilt with guided tours in Rome, we decided to have a go at showing ourselves around Florence.
 comments: true
 og_image: /assets/img/og/zip-in-zip-out-tour-of-florence.jpg
 ---
