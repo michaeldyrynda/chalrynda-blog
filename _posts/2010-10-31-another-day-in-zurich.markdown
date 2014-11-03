@@ -22,11 +22,6 @@ Our first stop was Lindenhof, one of the oldest parts of Zürich, and probably o
 </div>
 
 <div style="margin-bottom: 10px; text-align: center;">
-    <img src="/assets/img/blog/lindenhoff_view.jpg" alt="The view from Lindenhof" />
-    <p>The view from Lindenhof</p>
-</div>
-
-<div style="margin-bottom: 10px; text-align: center;">
     <img src="/assets/img/blog/lindenhof_chessboard.jpg" alt="Giant chess board" />
     <p>Giant chess board</p>
 </div>
