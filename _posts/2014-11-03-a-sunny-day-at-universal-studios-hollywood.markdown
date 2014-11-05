@@ -12,6 +12,11 @@ Monday 2nd November
 
 Universal Studios Day! It turned out I was to be approaching this day with bleary eyes, as it seems our bodies are still operating on European time, which means Michael got minimal sleep and I got even less.
 
+<div style="margin-bottom: 10px; text-align: center;">
+    <img src="/assets/img/blog/michael_rhi_universal.jpg" alt="Us at Universal Studios, Hollywood" />
+    <p>Us at Universal Studios, Hollywood</p>
+</div>
+
 After breakfast, we hopped in the car and headed to Universal Studios, which is about 10-15mins from where we are staying. We parked in the carpark (Woody Woodpecker section) and headed off to meet with Sam, who had graciously agreed to accompany us for the day, which I was quite happy with, as it meant Michael would have someone to go on rides with!
 
 At 10am the gates opened, and we headed on through with our Citypass, which gains us entry to both Universal and Disneyland. We helped Sam dump his backpack off at the lockers (it looked heavy) and on agreement, headed straight through the park to the Studio Tour. After hearing of Sam’s past experiences of waiting times for the Studio Tour, we were all pleasantly surprised to find we got on pretty much straight away. This turned out to be the theme of the day. The benefits of going in off season!

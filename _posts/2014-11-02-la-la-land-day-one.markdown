@@ -48,7 +48,7 @@ Once outside the TCL Chinese Theater, we stopped to check out a few of the costu
     <p>TCL Chinese Theater</p>
 </div>
 
-From Hollywood Boulevard, we headed back down North La Brea Avenue towards the shopping complex we past on the way in last night to see what was there. Along the way, we past “Ralphs” - a supermarket, which we decided we would return to on the way back to get some supplies for the week. Our first stop at West Hollywood Gateway was Target.
+From Hollywood Boulevard, we headed back down North La Brea Avenue towards the shopping complex we passed on the way in last night to see what was there. Along the way, we passed “Ralphs” - a supermarket, which we decided we would return to on the way back to get some supplies for the week. Our first stop at West Hollywood Gateway was Target.
 
 Target in the United States - at least this particular location - is not much like what we have back home. I mean, it has the clothes, homewares, and so on like back home but at the back of the store was a supermarket, so you can do your grocery shopping and pick up some new clothes at the same time. We grabbed some Yankee Candles. Rhi informed me that these are quite expensive back home, so we grabbed three for roughly the same price of what we would pay for one back home. They smelt pretty good.
 
