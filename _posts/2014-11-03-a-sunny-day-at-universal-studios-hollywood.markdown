@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A sunny day at Universal Studios, Hollywood
-description:
+description: Perfect weather for an enjoyable day at Universal Studios with Sam.
 categories: travel usa california
 date: 2014-11-03
 comments: true
