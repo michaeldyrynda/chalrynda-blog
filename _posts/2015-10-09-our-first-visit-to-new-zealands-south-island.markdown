@@ -2,7 +2,7 @@
 layout: post
 title: Our first visit to New Zealand's South Island
 description: We made the journey from Wellington to Picton on New Zeland's South Island, and onwards to Nelson and Hokitika.
-categories: travel "new zealand" "south island" picton nelson hokitika
+categories: travel new zealand south island picton nelson hokitika
 date: 2015-10-09
 comments: true
 author: Rhiannon
