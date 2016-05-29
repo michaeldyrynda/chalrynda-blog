@@ -3,7 +3,7 @@ title: Michael and Rhiannon's Travel Blog
 email: blog@chalrynda.us
 description: Michael and Rhiannon's Travel Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://chalrynda.us" # the base hostname & protocol for your site
+url: "https://chalrynda.us" # the base hostname & protocol for your site
 timezone: Australia/Adelaide
 
 # Build settings
