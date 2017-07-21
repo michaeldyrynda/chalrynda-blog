@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New York, day two
-description:
+description: A sleep-in, some shopping, and a steamy saunt through New York in search of a loaf of bread on our second day in the Big Apple.
 categories: travel united states new york
 date: 2017-07-20
 comments: true
