@@ -2,7 +2,7 @@
 ---
 
 header .bg-image {
-    background-image: url('../img/bg-hogwarts.jpg') !important;
+    background-image: url('../img/bg-cinderellas-castle-disney-world.jpg') !important;
 }
 
 header .inner h2 {
@@ -21,6 +21,25 @@ article li {
     font-size: 18px;
     line-height: 32px;
     word-wrap: break-word;
+}
+
+.embed-container {
+    height: 0;
+    margin-bottom: 10px;
+    max-width: 100%;
+    padding-bottom: 56.25%;
+    position: relative;
+    overflow: hidden;
+}
+
+.embed-container embed,
+.embed-container iframe,
+.embed-container object {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
 
 

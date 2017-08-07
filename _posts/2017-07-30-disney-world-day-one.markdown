@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disney World Day One - Disney's Magic Kingdom
-description:
+description: As with Disneyland in Anaheim, we powered through Disney World pretty quickly, leaving us time to duck back to our hotel for a nap before returning for the evening's fireworks.
 categories: travel united states orlando florida disney world magic kingdom
 date: 2017-07-30
 comments: true
