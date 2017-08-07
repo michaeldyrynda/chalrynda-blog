@@ -11,7 +11,7 @@ og_image: /assets/img/og/disney-world-day-one.jpg
 Our first day at Disney World! I was understandably mildly (okay very) exited, and dressed the part for the day.
 
 <div style="margin-bottom: 10px; text-align: center;">
-    <img src="/assets/img/blog/IMG_0781.JPG" alt="Rhiannon the Disney employee">
+    <img src="/assets/img/blog/IMG_0781.jpg" alt="Rhiannon the Disney employee">
     <p>Rhiannon the Disney employee</p>
 </div>
 
