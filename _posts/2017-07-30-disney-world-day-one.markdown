@@ -83,6 +83,7 @@ We continued through Adventureland and into Frontierland, and Michael decided to
 > **Michael's Rating**
 >
 > 6/10 - "Wasn't worth the wait - pretty much the same as LA"
+
 We wandered through a few shops, and decided to wait 10 minutes to see The Muppets Present....Great Moments in American History. Unfortunately, it turned out that it had been cancelled due to "inclement weather" aka the fact that it hadn't really stopped raining all day.
 
 We continued around, and took shelter when it really started coming down! After a while it eased, and we made our way into Fantasyland.
