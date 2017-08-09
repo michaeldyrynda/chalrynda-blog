@@ -6,7 +6,7 @@ categories: travel united states orlando florida disney world animal kingdom
 date: 2017-08-01
 comments: true
 author: Rhiannon
-og_image: /assets/img/og/hollywood-studios.jpg
+og_image: /assets/img/og/animal-kingdom.jpg
 ---
 Our third and last day at Disney! We decided to spend the day at Disney’s Animal Kingdom, however not to get there until early afternoon. This allowed us to have a bit of a sleep in after our long, long day the day before, and to get ourselves packed and ready as we were flying out early the next morning.
 
