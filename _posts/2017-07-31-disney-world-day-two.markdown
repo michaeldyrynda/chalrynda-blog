@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disney World Day Two - Epcot and Hollywood Studios
-description:
+description: We decided to tackle two parks in one day in our second outing to Disney World.
 categories: travel united states orlando florida disney world epcot hollywood studios
 date: 2017-07-31
 comments: true
@@ -30,7 +30,7 @@ It was at this point that the rain started to fall, so we decided to take some r
 
 > **Rhiannon's Rating**
 >
->
+> 7/10 - "Was pretty cool"
 
 > **Michael's Rating**
 >
@@ -47,7 +47,7 @@ From this, we went right next door to Journey into imagination with Figment. Nei
 
 > **Rhiannon's Rating**
 >
->
+> 4/10 "Was really aimed at tiny humans"
 
 > **Michael's Rating**
 >
@@ -62,7 +62,7 @@ Our first stop outside of Future World was Mexico, where we jumped on the first 
 
 > **Rhiannon's Rating**
 >
->
+> 8/10 - "Good fun!"
 
 > **Michael's Rating**
 >
@@ -149,7 +149,7 @@ From here, we were just about ready to take in the night performances. Unfortuna
 
 > **Rhiannon's Rating**
 >
->
+> 10/10 - "Amazing show!"
 
 > **Michael's Rating**
 >
